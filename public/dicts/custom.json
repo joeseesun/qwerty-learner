@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Capacity",
+        "trans": [
+            "Capacity:获取或设置该内部数据结构在不调整大小的情况下能够容纳的元素总数"
+        ]
+    },
+    {
+        "name": "Count",
+        "trans": [
+            "Count:获取 List<T> 中包含的元素数"
+        ]
+    }
+]
