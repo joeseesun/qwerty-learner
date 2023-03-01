@@ -1,12 +1,36 @@
 [
     {
-		"name": "display data",
-		"trans": ["display data: 展示数据"]
-	},
-	{
-		"name": "return a visit to the users",
-		"trans": [
-			"return a visit to the users: 做用户回访"
-		]
-	}
+    "name": "display data",
+    "trans": ["展示数据"]
+},
+{
+    "name": "return a visit to the users",
+    "trans": [
+        "做用户回访"
+    ]
+},
+{
+    "name": "pay a return visit one by one",
+    "trans": [
+        "逐一做用户回访"
+    ]
+},
+{
+    "name": "synchronize risk information in time",
+    "trans": [
+        "及时同步风险点"
+    ]
+},
+{
+    "name": "do some other high-priority requirements",
+    "trans": [
+        "插入其他高优需求"
+    ]
+},
+{
+    "name": "cause delay risk",
+    "trans": [
+        "造成延期风险"
+    ]
+}
 ]
