@@ -1,0 +1,12 @@
+[
+    {
+		"name": "display data",
+		"trans": ["display data: 展示数据"]
+	},
+	{
+		"name": "return a visit to the users",
+		"trans": [
+			"return a visit to the users: 做用户回访"
+		]
+	}
+]
