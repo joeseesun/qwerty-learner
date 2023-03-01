@@ -14,6 +14,7 @@
 export const dictionaries: Dictionary[] = [
   { id: 'custom', name: '每日一词', description: '每天学一个单词', category: '英语学习', url: './dicts/custom.json', length: 12 },
   { id: 'phrase', name: '每日词组', description: '每天学一个词组', category: '英语学习', url: './dicts/custom_phrase.json', length: 6 },
+  { id: 'cool', name: '地道实用英语', description: '相对地道的英语单词或表达', category: '英语学习', url: './dicts/custom_phrase.json', length: 6 },
   { id: 'cet4', name: 'CET-4', description: '大学英语四级词库', category: '英语学习', url: '', length: 2607 },
   { id: 'cet6', name: 'CET-6', description: '大学英语六级词库', category: '英语学习', url: './dicts/CET6_T.json', length: 2345 },
   { id: 'gmat', name: 'GMAT', description: 'GMAT 词库', category: '英语学习', url: './dicts/GMAT_3_T.json', length: 3047 },
