@@ -1,14 +1,73 @@
-[
+[   
+    { "name": "facilitate",
+        "trans": ["facilitate:使便利，促进"]
+    },
     {
-        "name": "Capacity",
+        "name": "regulation",
         "trans": [
-            "Capacity:获取或设置该内部数据结构在不调整大小的情况下能够容纳的元素总数"
+            "regulation:规定，规则",
+            "regulation:管理，控制"
         ]
     },
     {
-        "name": "Count",
+        "name": "retrospective",
         "trans": [
-            "Count:获取 List<T> 中包含的元素数"
+            "retrospective:回顾的，追溯的"
+        ]
+    },
+    {
+        "name": "resilience",
+        "trans": [
+            "resilience:弹性，弹力",
+            "resilience:恢复力，适应力"
+        ]
+    },
+    {
+        "name": "monetize",
+        "trans": [
+            "monetize:货币化，赚钱"
+        ]
+    },
+    {
+        "name": "collaborate",
+        "trans": [
+            "collaborate:合作，协作"
+        ]
+    },
+    {
+        "name": "meticulous",
+        "trans": [
+            "meticulous:谨慎的，一丝不苟的"
+        ]
+    },
+    {
+        "name": "streamline",
+        "trans": [
+            "streamline:优化，精简"
+        ]
+    },
+    {
+        "name": "diligent",
+        "trans": [
+            "diligent:勤勉的，努力的"
+        ]
+    },
+    {
+        "name": "serendipity",
+        "trans": [
+            "serendipity:意外发现的事物，意外的收获"
+        ]
+    },
+    {
+        "name": "eloquence",
+        "trans": [
+            "eloquence:雄辩，口才"
+        ]
+    },
+    {
+        "name": "paradox",
+        "trans": [
+            "paradox:悖论，自相矛盾的情况"
         ]
     }
 ]
