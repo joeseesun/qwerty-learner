@@ -102,6 +102,22 @@ const Footer: React.FC = () => {
             <span className="py-1 px-3 text-xs text-gray-500 dark:text-gray-400">中国大陆镜像</span>
           </div>
         </div>
+        <div className="group relative inline-block ">
+          <a href="https://bytedance.feishu.cn/docs/doccnCMWN4yePMZB5GbnJnReB6c#" className="mr-3 text-gray-500 dark:text-gray-400" title="乔木日志">
+            乔木日志
+          </a>
+          <div className="invisible absolute bottom-full left-1/2 -ml-20 flex w-40 items-center justify-center pt-2 group-hover:visible">
+            <span className="py-1 px-3 text-xs text-gray-500 dark:text-gray-400">乔木日志@飞书</span>
+          </div>
+        </div>
+        <div className="group relative inline-block ">
+          <a href="https://bytedance.feishu.cn/docx/WZ0Vdwf17o68uyx1RlMcO7t7nyg" className="mr-3 text-gray-500 dark:text-gray-400" title="AIGC指南">
+          AIGC指南
+          </a>
+          <div className="invisible absolute bottom-full left-1/2 -ml-20 flex w-40 items-center justify-center pt-2 group-hover:visible">
+            <span className="py-1 px-3 text-xs text-gray-500 dark:text-gray-400">AIGC指南</span>
+          </div>
+        </div>
         <span
           className="cursor-pointer text-gray-500 no-underline hover:no-underline dark:text-gray-400 "
           onClick={(e) => {
@@ -110,7 +126,7 @@ const Footer: React.FC = () => {
             e.currentTarget.blur()
           }}
         >
-          @ Qwerty Learner
+          @ Powerby Qwerty Learner
         </span>
         <a
           className="cursor-pointer pl-2 text-gray-500 no-underline hover:no-underline dark:text-gray-400"
